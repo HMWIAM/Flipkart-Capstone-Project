@@ -117,10 +117,10 @@ Samwel Muiru
 
 |── notebook.ipynb
 
-├── requirements.txt                                             
+├── requirements.txt  
 
-|── streamlit.py                                   
-
+├── streamlit.py                                             
+                                   
 ├── vectorizer.pkl                                                   
 
 ├── xgboost.pkl   
