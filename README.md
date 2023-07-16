@@ -82,22 +82,23 @@ To run this project, follow these steps:
 
 2. Open your web browser and access the application at: https://flipkart-capstone-project-zudlnc7o57n.streamlit.app/
     This is the default URL where the application will be running. 
-![deployment](images/deployment.jpg)
+
+![deployment](images/deployment.png)
 
 ### Collaborators
 The collaborators for this project were:
 
-Pauline Ndungu:
+Pauline Ndungu
 
-Maureen Anduuru: 
+Maureen Anduuru 
 
-Samuel Igecha: 
+Samuel Igecha
 
-Leornard Rotich: 
+Leornard Rotich 
 
-Henry Mativo: 
+Henry Mativo
 
-Samwel Muiru: 
+Samwel Muiru 
 
 
 ### Repository Structure: 
