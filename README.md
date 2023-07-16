@@ -75,52 +75,56 @@ By implementing these recommendations, Flipkart can enhance its product offering
 The Naive Bayes model is not fit for prediction as there is possible overfitting given the disparity between accuracy of training and test sets.
 The XGboost model is computationally expensive and can be time-consuming.
 There is evidence of overfitting occuring in the Random Forest model, give the disparity between the the accuracy of the training and test set.
-# Installations
-To install and run this project, follow these steps:
+# Deployment
+To run this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
-    - git clone https://github.com/Igecha-Samuel/Flipkart
-2. Navigate to the project's root directory:
-    - cd your-repository
-3. Install the project dependencies(For this project we worked with Jupyter notebook, however it can also run on vscode or Google collab:
-    - This command will install all the necessary packages and libraries required for the project to run(this should br run in the terminal(for our case Anaconda).
-    - pip install Jupyter Notebook 
-5. Call the note book in the directory
-    - jupyter notebook
-    - code .. for VS code
-6. Open your web browser and access the application at http://localhost:5000.
-    This is the default URL where the application will be running locally. 
+    - git clone https://github.com/Leon380/Flipkart-Capstone-Project
+
+2. Open your web browser and access the application at: https://flipkart-capstone-project-zudlnc7o57n.streamlit.app/
+    This is the default URL where the application will be running. 
+![deployment](images/deployment.jpg)
 
 ### Collaborators
-feel free  to visit this jupyternotebook and contact below emails
+The collaborators for this project were:
 
-Pauline Ndungu: @@gmail.com
+Pauline Ndungu:
 
-Maureen Anduuru: @@gmail.com
+Maureen Anduuru: 
 
-Samuel Igecha: @@gmail.com
+Samuel Igecha: 
 
-Leornard Rotich: @@gmail.com
+Leornard Rotich: 
 
-Henry Mativo: @@gmail.com
+Henry Mativo: 
 
-Brian Nderu: @@gmail.com
+Samwel Muiru: 
 
 
 ### Repository Structure: 
 
-├── .gitignore                                              
+├── Data                                               
 
-├── CONTRIBUTING                                            
+├── Model                                              
 
-├── LICENSE.md                                             
+├── Template                                               
 
-|── Phase4_project.ipynb                                   
+├── images 
 
-├── data                                                   
+├── streamlit      
 
-├── README.md   
+├── README.md 
 
-Web app link:
+|── notebook.ipynb
+
+├── requirements.txt                                             
+
+|── streamlit.py                                   
+
+├── vectorizer.pkl                                                   
+
+├── xgboost.pkl   
+
+Web app link: https://flipkart-capstone-project-zudlnc7o57n.streamlit.app/
 
 
 ## Project status
